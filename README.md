@@ -1,6 +1,6 @@
 # SecureCrypt-ECC-AES-Digital-Envelope-Encryption
 
-ECDH 加密方式:
+使用 ECC ECDH 加密方式:
 
 ※ 橢圓曲線選用brainpoolP160r1，基點設為G，以下計算都使用橢圓曲線的數學原理
 
